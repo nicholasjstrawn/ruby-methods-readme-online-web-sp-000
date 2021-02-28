@@ -2,4 +2,8 @@ def greeting
   puts "Hello World"
 end
 
-greeting * 5
+greeting
+greeting
+greeting
+greeting
+greeting
